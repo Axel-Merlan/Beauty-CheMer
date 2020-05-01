@@ -1,0 +1,50 @@
+body {
+    background: url(flores.jpg);
+}
+
+.pink {
+    align-content: center;
+    background: #F966DB;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.orange {
+    background: #FC8001;
+    float: left;
+    width: 16%;
+    display: block;
+}
+
+.image {
+    /* overflow: hidden; */
+    width: 74%;
+    /* float: left; */
+}
+
+.divFull {
+    width: 92%;
+    background: #808080;
+    color: #ffff;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px
+}
+
+h3 {
+    font-size: 30px;
+}
+
+
+/* imagen */
