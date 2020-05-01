@@ -1,2 +1,2 @@
 # Beauty-CheMer
-Venta
+Proyecto de Axel Merlán
